@@ -58,7 +58,7 @@ module.exports = {
       name: 'ClientApp',
       filename: 'remoteEntry.js',
       exposes: {
-        './ClientPage': "./src/views/Main"
+        './ClientPage': "./src/views/Client"
       }
     })
   ],
